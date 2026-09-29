@@ -1,0 +1,3 @@
+repository "Chipmaker XR Project/Chipmaker XR REP@9071977120356@cloud"
+  path "/"
+    smartbranch "/main/exposure"
